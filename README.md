@@ -1,6 +1,10 @@
 # Best practices based on this Medium post
 - https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81
 
+Angular 6 release www's
+- https://www.djamware.com/post/5afa31a780aca726dee1fd6c/angular-6-tutorial-getting-started-build-angular-6-web-application
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
+
 ## Setup
 1. Install Angular cli
    1. `npm install -g @angular/cli@6` 
